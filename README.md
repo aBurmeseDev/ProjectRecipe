@@ -21,6 +21,8 @@ Savory is a website which allows you to connect with your friends around food.  
   - Javascript ES6
   - NodeJS
   - ExpressJS
+  - MongoDB
+  - Mongoose
   - Materialize CSS
   - Google Fonts
   - Edamam API
@@ -29,7 +31,7 @@ Savory is a website which allows you to connect with your friends around food.  
   - Trello
   
   ### Getting Started
-  Check out the site here
+  [Check out the site here](http://savory-jdj.herokuapp.com/start)
   
   ### Next Steps
    - Expand social features, allowing users to accept friend and potluck requests
